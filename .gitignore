@@ -1,0 +1,6 @@
+secrets.toml
+.venv/
+*.csv
+*.json
+database/
+References/
